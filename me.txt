@@ -3,3 +3,6 @@ Creating a new branch is quick and simple.
 i am dev
 
 i am dev add note
+
+remote-master-add-file
+
