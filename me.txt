@@ -3,3 +3,4 @@ Creating a new branch is quick and simple.
 i am dev
 
 我是本地的beat
+i am beta
