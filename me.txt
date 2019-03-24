@@ -2,3 +2,4 @@ Creating a new branch is quick and simple.
 
 i am dev
 
+别人在dev上合并了些内容
