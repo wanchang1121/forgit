@@ -1,10 +1,4 @@
 Creating a new branch is quick and simple.
 
-
-asdsghdeaghaerg
-dfgfdsgfdg
-dfsgfdgfd
-我是dev的改变
 i am beta
 
-我是beta别人的代码
