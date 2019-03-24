@@ -2,3 +2,8 @@ Creating a new branch is quick and simple.
 
 i am beta
 
+<<<<<<< HEAD
+=======
+在dev上修改了东西
+
+>>>>>>> dev-1
