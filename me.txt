@@ -2,5 +2,6 @@ Creating a new branch is quick and simple.
 
 i am dev
 
+我是远程新增的dev内容
 
 这是我在本地的DEV开发内容 需要先提交给beta测试
