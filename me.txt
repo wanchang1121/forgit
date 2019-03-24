@@ -4,3 +4,4 @@ Creating a new branch is quick and simple.
 i am beta
 
 
+beta别人添加的代码
